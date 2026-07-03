@@ -131,3 +131,5 @@ a = 2
 b = 4.35
 sum =  a+b
 print( " The sum of a and b is : ", sum)
+#  Example of type casting
+a = int("234")
