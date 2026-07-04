@@ -133,3 +133,34 @@ sum =  a+b
 print( " The sum of a and b is : ", sum)
 #  Example of type casting
 a = int("234")
+
+# Practice Questions with Answers
+# 1. Create two variables, name and age, and print them.
+name = "Ayesha"
+age = 21
+print("Name:", name)
+print("Age:", age)
+
+# 2. Write code to check whether a number is even or odd.
+number = 7
+if number % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+# 3. Add two numbers and print the result.
+num1 = 12
+num2 = 8
+sum_result = num1 + num2
+print("Sum:", sum_result)
+
+# 4. Convert a string to an integer and print the result.
+num_string = "100"
+num_integer = int(num_string)
+print("Converted integer:", num_integer)
+
+# 5. Compare two values using a relational operator.
+value1 = 15
+value2 = 10
+print("Is value1 greater than value2?", value1 > value2)
+
