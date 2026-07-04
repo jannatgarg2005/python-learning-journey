@@ -164,3 +164,29 @@ value1 = 15
 value2 = 10
 print("Is value1 greater than value2?", value1 > value2)
 
+# Practice Questions on Operators (Easy)
+# 1. Add two numbers and print the result.
+a = 10
+b = 5
+print("Addition:", a + b)
+
+# 2. Subtract one number from another.
+x = 20
+y = 8
+print("Subtraction:", x - y)
+
+# 3. Multiply two numbers.
+p = 6
+q = 4
+print("Multiplication:", p * q)
+
+# 4. Divide two numbers and print the result.
+m = 15
+n = 3
+print("Division:", m / n)
+
+# 5. Check if two values are equal.
+num_a = 7
+num_b = 7
+print("Are they equal?", num_a == num_b)
+
