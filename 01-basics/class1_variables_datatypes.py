@@ -190,3 +190,28 @@ num_a = 7
 num_b = 7
 print("Are they equal?", num_a == num_b)
 
+# Practice Questions on Logical Operators (Easy)
+# 1. Check if both conditions are true.
+a = True
+b = False
+print("AND result:", a and b)
+
+# 2. Check if at least one condition is true.
+c = True
+d = False
+print("OR result:", c or d)
+
+# 3. Reverse the value of a boolean.
+flag = True
+print("NOT result:", not flag)
+
+# 4. Combine comparison and logical operator.
+value1 = 10
+value2 = 5
+print("Is value1 greater than value2 and value1 greater than 8?", value1 > value2 and value1 > 8)
+
+# 5. Use logical operator with equality check.
+num1 = 4
+num2 = 4
+print("Is num1 equal to num2 or num1 less than 3?", num1 == num2 or num1 < 3)
+
