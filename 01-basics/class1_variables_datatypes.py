@@ -215,3 +215,8 @@ num1 = 4
 num2 = 4
 print("Is num1 equal to num2 or num1 less than 3?", num1 == num2 or num1 < 3)
 
+# Practice Questions on Type Conversion and Type Casting (Easy)
+# 1. Convert a float to an integer and print the result.
+float_num = 5.67
+int_num = int(float_num)
+print("Converted integer:", int_num)
