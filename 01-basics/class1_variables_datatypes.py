@@ -220,3 +220,21 @@ print("Is num1 equal to num2 or num1 less than 3?", num1 == num2 or num1 < 3)
 float_num = 5.67
 int_num = int(float_num)
 print("Converted integer:", int_num)
+# 2. Convert an integer to a string and print the result.
+int_value = 42
+str_value = str(int_value)
+print("Converted string:", str_value)
+# 3. Convert a string to a float and print the result.
+str_float = "3.14"
+float_value = float(str_float)
+print("Converted float:", float_value)
+# 4. Convert a boolean to an integer and print the result.
+bool_value = True
+int_from_bool = int(bool_value)
+print("Converted integer from boolean:", int_from_bool)
+# 5. Convert an integer to a float and print the result.
+int_num2 = 10
+float_num2 = float(int_num2)
+print("Converted float:", float_num2)
+
+
