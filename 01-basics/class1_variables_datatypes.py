@@ -236,5 +236,9 @@ print("Converted integer from boolean:", int_from_bool)
 int_num2 = 10
 float_num2 = float(int_num2)
 print("Converted float:", float_num2)
-
+# Common Errors in Python
+# 1. SyntaxError: This error occurs when there is a mistake in the syntax of the code. For example, missing a colon at the end of an if statement.
+# Example:  
+# if True
+#     print("This will cause a SyntaxError")
 
