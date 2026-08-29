@@ -4,4 +4,4 @@
 # python-learning-journey
  My Python learning path — from basics to ML | Python + Kaggle + real projects
 # Completed the python series started the kaggle + hackerrank 
-#This repo consists detailed python playlist
+#This repo consists detailed python playlist completed
