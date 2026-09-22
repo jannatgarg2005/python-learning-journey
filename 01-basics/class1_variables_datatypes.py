@@ -1,1 +1,2 @@
-# Start with all python basics in one instance 
+## Start with all python basics in one instance
+print("Jannat")
